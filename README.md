@@ -1,16 +1,14 @@
 # 30 Days of Python || Unlock your Python Potential
 #### By Harshit Ahluwalia
 ![alt_text](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/announcementposter.png)
-
 ## Description about the course
-
 In early 2016, Python passed Java as the #1 beginners language in the world. Why? It's because it's simple enough for beginners yet advanced enough for the pros. 
 
-<b>SpaceX<b> uses it to launch Rockets
+<b>SpaceX</b> uses it to launch Rockets
 
-<b>Pixar<b> uses Python to run their animation software
+<b>Pixar</b> uses Python to run their animation software
 
-<b>Instagram<b> & <b>Pinterest<b> use it to run their web application (backend via Django)
+<b>Instagram</b> & </b>Pinterest<b> use it to run their web application (backend via Django)
 
 Come learn with me and I'll show you how you can bend Python to your will. This course is great for beginners in Python at any age and any level of computer literacy.
 
