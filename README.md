@@ -32,8 +32,9 @@ The goal is simple: learn Python by building real projects step-by-step while we
     <li>Read / Write CSV (comma separated values) files to work in Excel/Numbers
     <li>Use the Twitter API to send tweets easily through a few lines of code
     <li>Use the Yelp API to pull data about all businesses they have on their site
-</ul>   
-##### Who this course is for:
+</ul> 
+
+##### Who this course is for
 <ul>
     <li>Entrepreneurs and Non-Technical Founders
     <li>Anyone interested in learning Python
