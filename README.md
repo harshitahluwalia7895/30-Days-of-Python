@@ -13,13 +13,13 @@ In early 2016, Python passed Java as the #1 beginners language in the world. Why
 Come learn with me and I'll show you how you can bend Python to your will. This course is great for beginners in Python at any age and any level of computer literacy.
 
 The goal is simple: learn Python by building real projects step-by-step while we explain every concept along the way.  For the next 30 Days you're going to learn how to:
-
-    - Scrape Data from nearly Any Website (including javascript-enabled sites)
-    - Build your own Python applications for all types of automation
-    - Send Emails & SMS text messages to your friends our your customers
-    - Read & Write CSV, aka comma separated values, files to better store your data locally and work in popular programs like Microsoft Excel and Apple Numbers
-    - Understand the basics behind the Python programming language so you're ready to build more advanced projects like Web Applications
-
+<ul>
+    <li>- Scrape Data from nearly Any Website (including javascript-enabled sites)
+    <li>- Build your own Python applications for all types of automation
+    <li>- Send Emails & SMS text messages to your friends our your customers
+    <li>- Read & Write CSV, aka comma separated values, files to better store your data locally and work in popular programs like Microsoft Excel and Apple Numbers
+    <li>- Understand the basics behind the Python programming language so you're ready to build more advanced projects like Web Applications
+</ul>
 
 ##### What you’ll learn
 
