@@ -56,7 +56,9 @@ The goal is simple: learn Python by building real projects step-by-step while we
 8.Classes - Part II<br>
 9.Classes - part III<br>
 <br>
+
 ###### Python CSV,and Email | Do Something Real
+
 <br>
 10.Setup Python to send and email with gmail<br>
 11.HTML and Plain Text Emails through Python and Gmail<br>
