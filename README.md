@@ -43,6 +43,7 @@ The goal is simple: learn Python by building real projects step-by-step while we
     <li>Anyone interested in learning how to Scrape Websites for data/big data analysis
     <li>Anyone interested in Automating Email on their own terms 
 </ul>
+
 #### Table to content for 30 Days
 
 1. Welcome to the course
