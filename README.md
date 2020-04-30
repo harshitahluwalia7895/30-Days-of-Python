@@ -45,59 +45,59 @@ The goal is simple: learn Python by building real projects step-by-step while we
 </ul>
 
 #### Table to content for 30 Days
-
-1. Welcome to the course
-2.Basics(Strings and integers)
-3.Lists,Tuples,Dictionaries
-4.Conditionals
-5.Functions
-6.Advanced Strings
-7.Classes - Part I
-8.Classes - Part II
-9.Classes - part III
-
+<br>
+1. Welcome to the course<br>
+2.Basics(Strings and integers)<br>
+3.Lists,Tuples,Dictionaries<br>
+4.Conditionals<br>
+5.Functions<br>
+6.Advanced Strings<br>
+7.Classes - Part I<br>
+8.Classes - Part II<br>
+9.Classes - part III<br>
+<br>
 ###### Python CSV,and Email | Do Something Real
-
-10.Setup Python to send and email with gmail
-11.HTML and Plain Text Emails through Python and Gmail
-12.Send Formatted Emails to a Set of Users
-13.Using External Template Files with Context Data in Python
-14.CSV Files with Python - Read, Write, & Append
-15.Functions to Dynamically Add Data to CSV with Python
-16.Edit CSV with Python Part 1
-17.Edit CSV with Python Part 2
-18.Running Python Commands & Arguments in Terminal
-19.Integrating Part 1
-20.Integrating Part 2
-
+<br>
+10.Setup Python to send and email with gmail<br>
+11.HTML and Plain Text Emails through Python and Gmail<br>
+12.Send Formatted Emails to a Set of Users<br>
+13.Using External Template Files with Context Data in Python<br>
+14.CSV Files with Python - Read, Write, & Append<br>
+15.Functions to Dynamically Add Data to CSV with Python<br>
+16.Edit CSV with Python Part 1<br>
+17.Edit CSV with Python Part 2<br>
+18.Running Python Commands & Arguments in Terminal<br>
+19.Integrating Part 1<br>
+20.Integrating Part 2<br>
+<br>
 
 ###### Web Scraping with Python
-
-21.Web Scraping with Python3 Python Requests & BeautifulSoup
-22.Web Scraping Part 2
-23.Web Scraping Part 3
-24.Web Scraping Part 4
+<br>
+21.Web Scraping with Python3 Python Requests & BeautifulSoup<br>
+22.Web Scraping Part 2<br>
+23.Web Scraping Part 3<br>
+24.Web Scraping Part 4<br>
 
 ###### Web Scraping on Javascript Driven HTML
-
-25.Part 1 | Web Scraping on Javascript-Driven HTML using Python + Part 2 | Web Scraping on Javascript-Driven HTML using Python
+<br>
+25.Part 1 | Web Scraping on Javascript-Driven HTML using Python + Part 2 | Web Scraping on Javascript-Driven HTML using Python<br>
 
 ###### Get Data with an API
+<br>
+26.Part 1 | Get Data with an API + Part 2 | Get Data with an API<br>
 
-26.Part 1 | Get Data with an API + Part 2 | Get Data with an API
+###### TextMessaging (SMS/MMS) with Python<br>
 
-###### TextMessaging (SMS/MMS) with Python
-
-27.Sending SMS Messages with Python & Twilio Part 1 + Part 2 - SMS Messages with Python & Twilio
-28.Twilio Python Client & SMS
+27.Sending SMS Messages with Python & Twilio Part 1 + Part 2 - SMS Messages with Python & Twilio<br>
+28.Twilio Python Client & SMS<br>
 
 ###### Twitter API & Python
+<br>
+29.Twitter API with Python & python-twitter<br>
 
-29.Twitter API with Python & python-twitter
+###### Read Email Inbox using Python & Gmail<br>
 
-###### Read Email Inbox using Python & Gmail
-
-30.Login with IMAP
-    - Fetch & Convert Email
-    - Save Emails Locally
+30.Login with IMAP<br>
+    - Fetch & Convert Email<br>
+    - Save Emails Locally<br>
 
