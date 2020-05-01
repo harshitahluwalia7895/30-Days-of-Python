@@ -157,9 +157,9 @@ Once you have chosen and downloaded an installer, simply run it by double-clicki
 If you want to try out the examples in this tutorial without installing Python on your machine, there are several web sites available where you can interact with a Python interpreter online:
 <br>
 1. Python.org Online Console: www.python.org/shell <br>
-2. Python Fiddle: pythonfiddle.com <br>
-3. Repl.it: repl.it <br>
-4. Trinket: trinket.io <br>
+2. Python Fiddle: www.pythonfiddle.com <br>
+3. Repl.it: www.repl.it <br>
+4. Trinket: www.trinket.io <br>
 5. Python Anywhere: www.pythonanywhere.com <br>
 <br>
 These cloud-based Python interpreters may not be able to execute some of the more complex examples in this tutorial, but they will be adequate for running most of the simpler ones and may be a nice way to get you started. More information on using these sites is presented in the next section.
