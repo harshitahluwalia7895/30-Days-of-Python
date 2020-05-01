@@ -103,3 +103,5 @@ The goal is simple: learn Python by building real projects step-by-step while we
     - Fetch & Convert Email<br>
     - Save Emails Locally<br>
 
+## Day 1 - Welcome to the Course
+![alt_text](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/DailyPy-%20Day%201.png)
