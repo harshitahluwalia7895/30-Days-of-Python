@@ -117,4 +117,48 @@ Python provides features listed below :
 - Being Interpreted: The worries of large memory tasks and other heavy CPU tasks are taken care of by Python itself leaving you to worry only about coding.
 - Huge amount of libraries: Data Science? Python has you covered. Web Development? Python still has you covered. Always.
 - Object Orientation: Objects help breaking-down complex real-life problems into such that they can be coded and solved to obtain solutions.
- 
+<br>
+#### Python Interpreter<br>
+An interpreter is a computer program that directly executes, i.e. performs, instructions written in a programming or scripting language, without requiring them previously to have been compiled into a machine language program. So unlike Java, Python uses an interpreter.<br>
+The interpreter is a program that we need to run our python code or scripts. It basically provides an interface between the code and the computer hardware to get the results of the code.<br>
+No matter in which programming language the code is written, it goes through an interpreter when it comes to python. For example pypy is used to execute the code written in python.<br>
+
+<br>
+#### Python 3 Installation & Setup Guide
+<br>
+![alt_text]()
+<br>
+To get started working with Python 3, you’ll need to have access to the Python interpreter. There are several common ways to accomplish this:
+<br>
+- Python can be obtained from the Python Software Foundation website at python.org. Typically, that involves downloading the appropriate installer for your operating system and running it on your machine.
+- Some operating systems, notably Linux, provide a package manager that can be run to install Python.
+- On macOS, the best way to install Python 3 involves installing a package manager called Homebrew. You’ll see how to do this in the relevant section in the tutorial.
+- On mobile operating systems like Android and iOS, you can install apps that provide a Python programming environment. This can be a great way to practice your coding skills on the go.
+<br>
+#### Windows
+<br>
+It is highly unlikely that your Windows system shipped with Python already installed. Windows systems typically do not. Fortunately, installing does not involve much more than downloading the Python installer from the python.org website and running it. Let’s take a look at how to install Python 3 on Windows:
+<br>
+###### Step 1: Download the Python 3 Installer
+- Open a browser window and navigate to the Download page for Windows at python.org.
+- Underneath the heading at the top that says Python Releases for Windows, click on the link for the Latest Python 3 Release - Python 3.x.x. (As of this writing, the latest is Python 3.6.5.)
+- Scroll to the bottom and select either Windows x86-64 executable installer for 64-bit or Windows x86 executable installer for 32-bit.
+<br>
+###### Step 2: Run the Installer
+<br>
+Once you have chosen and downloaded an installer, simply run it by double-clicking on the downloaded file. A dialog should appear that looks something like this:<br>
+![alt_text]()
+<br>
+###### Online Python Interpreters<br>
+If you want to try out the examples in this tutorial without installing Python on your machine, there are several web sites available where you can interact with a Python interpreter online:
+<br>
+- Python.org Online Console: www.python.org/shell
+- Python Fiddle: pythonfiddle.com
+- Repl.it: repl.it
+- Trinket: trinket.io
+- Python Anywhere: www.pythonanywhere.com
+<br>
+These cloud-based Python interpreters may not be able to execute some of the more complex examples in this tutorial, but they will be adequate for running most of the simpler ones and may be a nice way to get you started. More information on using these sites is presented in the next section.
+
+
+
