@@ -106,7 +106,9 @@ The goal is simple: learn Python by building real projects step-by-step while we
 ## Day 1 - Welcome to the Course
 ![alt_text](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/DailyPy-Day%201%20(Welcome%20to%20the%20Course).png)
 <br>
-#### What is Python ?<br>
+
+#### What is Python ?
+<br>
 Python is currently one of my favorite and most preferred language to work on because of its simple text, powerful libraries(which has been used in Machine Learning), and readability . You may be an old school coder or may be completely new to programming, Python is the best way to get started!. 
 <br>
 Python provides features listed below :
@@ -126,7 +128,7 @@ No matter in which programming language the code is written, it goes through an 
 <br>
 #### Python 3 Installation & Setup Guide
 <br>
-![alt_text]()
+![alt_text](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Capture2.PNG)
 <br>
 To get started working with Python 3, you’ll need to have access to the Python interpreter. There are several common ways to accomplish this:
 <br>
@@ -147,7 +149,7 @@ It is highly unlikely that your Windows system shipped with Python already insta
 ###### Step 2: Run the Installer
 <br>
 Once you have chosen and downloaded an installer, simply run it by double-clicking on the downloaded file. A dialog should appear that looks something like this:<br>
-![alt_text]()
+![alt_text](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Capture.PNG)
 <br>
 ###### Online Python Interpreters<br>
 If you want to try out the examples in this tutorial without installing Python on your machine, there are several web sites available where you can interact with a Python interpreter online:
