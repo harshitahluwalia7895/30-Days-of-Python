@@ -140,7 +140,7 @@ To get started working with Python 3, you’ll need to have access to the Python
 <br>
 It is highly unlikely that your Windows system shipped with Python already installed. Windows systems typically do not. Fortunately, installing does not involve much more than downloading the Python installer from the python.org website and running it. Let’s take a look at how to install Python 3 on Windows:
 <br>
-<code>Step 1 : Download the Python 3 Installer</code>\
+<code>Step 1 : Download the Python 3 Installer</code>
 <br>
 1. Open a browser window and navigate to the Download page for Windows at python.org.<br>
 2. Underneath the heading at the top that says Python Releases for Windows, click on the link for the Latest Python 3 Release        Python 3.x.x. (As of this writing, the latest is Python 3.6.5.)<br>
@@ -165,4 +165,4 @@ If you want to try out the examples in this tutorial without installing Python o
 These cloud-based Python interpreters may not be able to execute some of the more complex examples in this tutorial, but they will be adequate for running most of the simpler ones and may be a nice way to get you started. More information on using these sites is presented in the next section.
 
 
-
+### Stay tuned for Day - 2 
