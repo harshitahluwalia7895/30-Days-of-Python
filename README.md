@@ -140,25 +140,26 @@ To get started working with Python 3, you’ll need to have access to the Python
 <br>
 It is highly unlikely that your Windows system shipped with Python already installed. Windows systems typically do not. Fortunately, installing does not involve much more than downloading the Python installer from the python.org website and running it. Let’s take a look at how to install Python 3 on Windows:
 <br>
-#### Step 1 : Download the Python 3 Installer
-1. Open a browser window and navigate to the Download page for Windows at python.org.
-2. Underneath the heading at the top that says Python Releases for Windows, click on the link for the Latest Python 3 Release        Python 3.x.x. (As of this writing, the latest is Python 3.6.5.)
-3. Scroll to the bottom and select either Windows x86-64 executable installer for 64-bit or Windows x86 executable installer for 32-bit.
+<code>Step 1 : Download the Python 3 Installer</code>
+1. Open a browser window and navigate to the Download page for Windows at python.org.<br>
+2. Underneath the heading at the top that says Python Releases for Windows, click on the link for the Latest Python 3 Release        Python 3.x.x. (As of this writing, the latest is Python 3.6.5.)<br>
+3. Scroll to the bottom and select either Windows x86-64 executable installer for 64-bit or Windows x86 executable installer for 32-bit.<br>
+
+<code>Step 2: Run the Installer</code>
 <br>
-#### Step 2: Run the Installer
+Once you have chosen and downloaded an installer, simply run it by double-clicking on the downloaded file. A dialog should appear that looks something like this:
 <br>
-Once you have chosen and downloaded an installer, simply run it by double-clicking on the downloaded file. A dialog should appear that looks something like this:<br>
 ![alt_text](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Capture.PNG)
 <br>
 ### Online Python Interpreters ###
 <br>
 If you want to try out the examples in this tutorial without installing Python on your machine, there are several web sites available where you can interact with a Python interpreter online:
 <br>
-* Python.org Online Console: www.python.org/shell
-* Python Fiddle: pythonfiddle.com
-* Repl.it: repl.it
-* Trinket: trinket.io
-* Python Anywhere: www.pythonanywhere.com
+1. Python.org Online Console: www.python.org/shell
+2. Python Fiddle: pythonfiddle.com
+3. Repl.it: repl.it
+4. Trinket: trinket.io
+5. Python Anywhere: www.pythonanywhere.com
 <br>
 These cloud-based Python interpreters may not be able to execute some of the more complex examples in this tutorial, but they will be adequate for running most of the simpler ones and may be a nice way to get you started. More information on using these sites is presented in the next section.
 
