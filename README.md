@@ -111,7 +111,7 @@ The goal is simple: learn Python by building real projects step-by-step while we
 <br>
 Python is currently one of my favorite and most preferred language to work on because of its simple text, powerful libraries(which has been used in Machine Learning), and readability . You may be an old school coder or may be completely new to programming, Python is the best way to get started!. 
 <br>
-Python provides features listed below :
+Python provides features listed below :<br>
 -Simplicity: Think less of the syntax of the language and more of the code.
 - Open Source: A powerful language and it is free for everyone to use and alter as needed.
 - Portability: Python code can be shared and it would work the same way it was intended to. Seamless and hassle-free.
@@ -120,7 +120,9 @@ Python provides features listed below :
 - Huge amount of libraries: Data Science? Python has you covered. Web Development? Python still has you covered. Always.
 - Object Orientation: Objects help breaking-down complex real-life problems into such that they can be coded and solved to obtain solutions.
 <br>
-#### Python Interpreter<br>
+
+#### Python Interpreter
+<br>
 An interpreter is a computer program that directly executes, i.e. performs, instructions written in a programming or scripting language, without requiring them previously to have been compiled into a machine language program. So unlike Java, Python uses an interpreter.<br>
 The interpreter is a program that we need to run our python code or scripts. It basically provides an interface between the code and the computer hardware to get the results of the code.<br>
 No matter in which programming language the code is written, it goes through an interpreter when it comes to python. For example pypy is used to execute the code written in python.<br>
