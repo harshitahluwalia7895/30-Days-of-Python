@@ -111,14 +111,14 @@ The goal is simple: learn Python by building real projects step-by-step while we
 <br>
 Python is currently one of my favorite and most preferred language to work on because of its simple text, powerful libraries(which has been used in Machine Learning), and readability . You may be an old school coder or may be completely new to programming, Python is the best way to get started!. 
 <br>
-Python provides features listed below :
-1. Simplicity: Think less of the syntax of the language and more of the code.
-2. Open Source: A powerful language and it is free for everyone to use and alter as needed.
-3. Portability: Python code can be shared and it would work the same way it was intended to. Seamless and hassle-free.
-4. Being Embeddable & Extensible: Python can have snippets of other languages inside it to perform certain functions.
-5. Being Interpreted: The worries of large memory tasks and other heavy CPU tasks are taken care of by Python itself leaving you to worry only about coding.
-6. Huge amount of libraries: Data Science? Python has you covered. Web Development? Python still has you covered. 
-7. Object Orientation: Objects help breaking-down complex real-life problems into such that they can be coded and solved to obtain solutions.
+Python provides features listed below :<br>
+1. Simplicity: Think less of the syntax of the language and more of the code.<br>
+2. Open Source: A powerful language and it is free for everyone to use and alter as needed.<br>
+3. Portability: Python code can be shared and it would work the same way it was intended to. Seamless and hassle-free.<br>
+4. Being Embeddable & Extensible: Python can have snippets of other languages inside it to perform certain functions.<br>
+5. Being Interpreted: The worries of large memory tasks and other heavy CPU tasks are taken care of by Python itself leaving you to worry only about coding.<br>
+6. Huge amount of libraries: Data Science? Python has you covered. Web Development? Python still has you covered. <br>
+7. Object Orientation: Objects help breaking-down complex real-life problems into such that they can be coded and solved to obtain solutions.<br>
 <br>
 
 #### Python Interpreter
