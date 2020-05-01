@@ -120,7 +120,7 @@ Python provides features listed below :<br>
 6. Huge amount of libraries: Data Science? Python has you covered. Web Development? Python still has you covered. <br>
 7. Object Orientation: Objects help breaking-down complex real-life problems into such that they can be coded and solved to obtain solutions.<br>
 
-##### Python Interpreter
+#### Python Interpreter
 <br>
 An interpreter is a computer program that directly executes, i.e. performs, instructions written in a programming or scripting language, without requiring them previously to have been compiled into a machine language program. So unlike Java, Python uses an interpreter.<br><br>
 The interpreter is a program that we need to run our python code or scripts. It basically provides an interface between the code and the computer hardware to get the results of the code.<br>
