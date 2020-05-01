@@ -112,13 +112,13 @@ The goal is simple: learn Python by building real projects step-by-step while we
 Python is currently one of my favorite and most preferred language to work on because of its simple text, powerful libraries(which has been used in Machine Learning), and readability . You may be an old school coder or may be completely new to programming, Python is the best way to get started!. 
 <br>
 Python provides features listed below :
-    - Simplicity: Think less of the syntax of the language and more of the code.
-    - Open Source: A powerful language and it is free for everyone to use and alter as needed.
-    - Portability: Python code can be shared and it would work the same way it was intended to. Seamless and hassle-free.
-    - Being Embeddable & Extensible: Python can have snippets of other languages inside it to perform certain functions.
-    - Being Interpreted: The worries of large memory tasks and other heavy CPU tasks are taken care of by Python itself leaving you to worry only about coding.
-    - Huge amount of libraries: Data Science? Python has you covered. Web Development? Python still has you covered. Always.
-    - Object Orientation: Objects help breaking-down complex real-life problems into such that they can be coded and solved to obtain solutions.
+1. Simplicity: Think less of the syntax of the language and more of the code.
+2. Open Source: A powerful language and it is free for everyone to use and alter as needed.
+3. Portability: Python code can be shared and it would work the same way it was intended to. Seamless and hassle-free.
+4. Being Embeddable & Extensible: Python can have snippets of other languages inside it to perform certain functions.
+5. Being Interpreted: The worries of large memory tasks and other heavy CPU tasks are taken care of by Python itself leaving you to worry only about coding.
+6. Huge amount of libraries: Data Science? Python has you covered. Web Development? Python still has you covered. 
+7. Object Orientation: Objects help breaking-down complex real-life problems into such that they can be coded and solved to obtain solutions.
 <br>
 
 #### Python Interpreter
@@ -129,15 +129,14 @@ No matter in which programming language the code is written, it goes through an 
 
 <br>
 #### Python 3 Installation & Setup Guide
-<br>
 ![alt_text](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Capture2.PNG)
 <br>
 To get started working with Python 3, you’ll need to have access to the Python interpreter. There are several common ways to accomplish this:
 <br>
-- Python can be obtained from the Python Software Foundation website at python.org. Typically, that involves downloading the appropriate installer for your operating system and running it on your machine.
-- Some operating systems, notably Linux, provide a package manager that can be run to install Python.
-- On macOS, the best way to install Python 3 involves installing a package manager called Homebrew. You’ll see how to do this in the relevant section in the tutorial.
-- On mobile operating systems like Android and iOS, you can install apps that provide a Python programming environment. This can be a great way to practice your coding skills on the go.
+1. Python can be obtained from the Python Software Foundation website at python.org. Typically, that involves downloading the appropriate installer for your operating system and running it on your machine.
+2. Some operating systems, notably Linux, provide a package manager that can be run to install Python.
+3. On macOS, the best way to install Python 3 involves installing a package manager called Homebrew. You’ll see how to do this in the relevant section in the tutorial.
+4. On mobile operating systems like Android and iOS, you can install apps that provide a Python programming environment. This can be a great way to practice your coding skills on the go.
 <br>
 #### Windows
 <br>
