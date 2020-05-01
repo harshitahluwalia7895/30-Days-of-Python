@@ -113,13 +113,13 @@ Python is currently one of my favorite and most preferred language to work on be
 <br>
 Python provides features listed below :
 <br>
-- Simplicity: Think less of the syntax of the language and more of the code.
-- Open Source: A powerful language and it is free for everyone to use and alter as needed.
-- Portability: Python code can be shared and it would work the same way it was intended to. Seamless and hassle-free.
-- Being Embeddable & Extensible: Python can have snippets of other languages inside it to perform certain functions.
-- Being Interpreted: The worries of large memory tasks and other heavy CPU tasks are taken care of by Python itself leaving you to worry only about coding.
-- Huge amount of libraries: Data Science? Python has you covered. Web Development? Python still has you covered. Always.
-- Object Orientation: Objects help breaking-down complex real-life problems into such that they can be coded and solved to obtain solutions.
+    - Simplicity: Think less of the syntax of the language and more of the code.
+    - Open Source: A powerful language and it is free for everyone to use and alter as needed.
+    - Portability: Python code can be shared and it would work the same way it was intended to. Seamless and hassle-free.
+    - Being Embeddable & Extensible: Python can have snippets of other languages inside it to perform certain functions.
+    - Being Interpreted: The worries of large memory tasks and other heavy CPU tasks are taken care of by Python itself leaving you to worry only about coding.
+    - Huge amount of libraries: Data Science? Python has you covered. Web Development? Python still has you covered. Always.
+    - Object Orientation: Objects help breaking-down complex real-life problems into such that they can be coded and solved to obtain solutions.
 <br>
 
 #### Python Interpreter
