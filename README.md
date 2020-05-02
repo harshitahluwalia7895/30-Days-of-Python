@@ -165,7 +165,7 @@ If you want to try out the examples in this tutorial without installing Python o
 These cloud-based Python interpreters may not be able to execute some of the more complex examples in this tutorial, but they will be adequate for running most of the simpler ones and may be a nice way to get you started. More information on using these sites is presented in the next section.
 
 
-## Day 2 - Python Basics ##
+## <Center>Day 2 - Python Basics</center> ##
 <br>
 Here in this course we will be using Jupyer Notebook.
 
