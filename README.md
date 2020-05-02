@@ -205,9 +205,10 @@ To install Jupyter using Anaconda, just go through the following instructions:
 ![alt_text](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/screenshots%20-%20Day%202/ss7.PNG)
 
 now, please acces these file for <b>Day 2</b>
-![Keywords and Identifiers](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Day%202/Day%202%20-%20%20keywords%20and%20Identifiers.ipynb)
-![Comments and identation](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Day%202/Day%202%20-%20Comments%20indentation.ipynb)
-![Operators in python](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Day%202/Day%202%20-%20Operators.ipynb)
-![Variables](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Day%202/Day%202%20-%20Variables.ipynb)
-![standard input and Output](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Day%202/Day%202%20-%20standard%20input%20and%20output.ipynb)
+
+* ![Keywords and Identifiers](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Day%202/Day%202%20-%20%20keywords%20and%20Identifiers.ipynb)<br>
+* ![Comments and identation](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Day%202/Day%202%20-%20Comments%20indentation.ipynb)<br>
+* ![Operators in python](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Day%202/Day%202%20-%20Operators.ipynb)<br>
+* ![Variables](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Day%202/Day%202%20-%20Variables.ipynb)<br>
+* ![standard input and Output](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Day%202/Day%202%20-%20standard%20input%20and%20output.ipynb)
     
