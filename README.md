@@ -175,6 +175,7 @@ Here in this course we will be using Jupyer Notebook.
 2. Jupyter has support for over 40 different programming languages and Python is one of them. Python is a requirement (Python 3.3 or greater, or Python 2.7) for installing the Jupyter Notebook itself.<br>
     
 Jupyter Notebook can be installed by using either of the two ways described below:
+content taken from GeeksforGeeks
 
 #### Using Anaconda ####
 
@@ -202,3 +203,11 @@ To install Jupyter using Anaconda, just go through the following instructions:
 <br><b>Launching Jupyter:</b><br>
 ![alt_text](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/screenshots%20-%20Day%202/ss6.PNG)
 ![alt_text](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/screenshots%20-%20Day%202/ss7.PNG)
+
+now, please acces these file for <b>Day 2</b>
+![Keywords and Identifiers](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Day%202/Day%202%20-%20%20keywords%20and%20Identifiers.ipynb)
+![Comments and identation](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Day%202/Day%202%20-%20Comments%20indentation.ipynb)
+![Operators in python](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Day%202/Day%202%20-%20Operators.ipynb)
+![Variables](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Day%202/Day%202%20-%20Variables.ipynb)
+![standard input and Output](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Day%202/Day%202%20-%20standard%20input%20and%20output.ipynb)
+    
