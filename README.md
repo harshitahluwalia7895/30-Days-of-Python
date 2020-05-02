@@ -165,4 +165,15 @@ If you want to try out the examples in this tutorial without installing Python o
 These cloud-based Python interpreters may not be able to execute some of the more complex examples in this tutorial, but they will be adequate for running most of the simpler ones and may be a nice way to get you started. More information on using these sites is presented in the next section.
 
 
-### Stay tuned for Day - 2 
+## Day 2 - Python Basics ##
+<br>
+Here in this course we will be using Jupyer Notebook.
+<br>
+##### About Jupyter Notebook #####
+<br>
+    - Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations, and narrative text. Uses include data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.<br>
+    - Jupyter has support for over 40 different programming languages and Python is one of them. Python is a requirement (Python 3.3 or greater, or Python 2.7) for installing the Jupyter Notebook itself.<br>
+Jupyter Notebook can be installed by using either of the two ways described below:<br>
+##### Using Anaconda:#####
+<br>
+Install Python and Jupyter using the Anaconda Distribution, which includes Python, the Jupyter Notebook, and other commonly used packages for scientific computing and data science. To install Anaconda, go through How to install Anaconda on windows? and follow the instructions provided. 
