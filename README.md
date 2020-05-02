@@ -1,6 +1,13 @@
 # 30 Days of Python || Unlock your Python Potential(This May)
 #### By Harshit Ahluwalia
 ![alt_text](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/DailyPy(6).png)
+<br>
+<b>link to follow me </b>
+* ![Telegram](https://t.me/joinchat/M_5TcBY6jacE5ok6TtmtIw) 
+* ![instagram](https://www.instagram.com/harshitahluwalia_ka/)
+* ![Github](https://github.com/harshitahluwalia7895/)
+* ![Linkedin](https://www.linkedin.com/in/harshit-ahluwalia-4b1153141/)
+* ![Youtube](https://www.youtube.com/channel/UCEmaIhwwcot0vtzw6PDOF4Q/)
 ## Description about the course
 In early 2016, Python passed Java as the #1 beginners language in the world. Why? It's because it's simple enough for beginners yet advanced enough for the pros. 
 
