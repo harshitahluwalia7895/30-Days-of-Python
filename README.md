@@ -169,13 +169,15 @@ These cloud-based Python interpreters may not be able to execute some of the mor
 <br>
 Here in this course we will be using Jupyer Notebook.
 <br>
-##### About Jupyter Notebook #####
-<br>
-    - Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations, and narrative text. Uses include data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.<br>
-    - Jupyter has support for over 40 different programming languages and Python is one of them. Python is a requirement (Python 3.3 or greater, or Python 2.7) for installing the Jupyter Notebook itself.<br>
-    
-Jupyter Notebook can be installed by using either of the two ways described below:<br>
 
+#### About Jupyter Notebook ####
+
+<br>
+1. Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations, and narrative text. Uses include data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.<br>
+2. Jupyter has support for over 40 different programming languages and Python is one of them. Python is a requirement (Python 3.3 or greater, or Python 2.7) for installing the Jupyter Notebook itself.<br>
+    
+Jupyter Notebook can be installed by using either of the two ways described below:
+<br>
 ##### Using Anaconda #####
 <br>
 Install Python and Jupyter using the Anaconda Distribution, which includes Python, the Jupyter Notebook, and other commonly used packages for scientific computing and data science. To install Anaconda, go through How to install Anaconda on windows? and follow the instructions provided. 
