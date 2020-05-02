@@ -184,8 +184,9 @@ Install Python and Jupyter using the Anaconda Distribution, which includes Pytho
 
 Install Jupyter using the PIP package manager used to install and manage software packages/libraries written in Python. To install pip, go through How to install PIP on Windows? and follow the instructions provided. 
 
-##### Installing Jupyter Notebook using Anaconda: #####
+#### Installing Jupyter Notebook using Anaconda: ####
 
 Anaconda is an open-source software that contains Jupyter, spyder, etc that are used for large data processing, data analytics, heavy scientific computing. Anaconda works for R and python programming language. Spyder(sub-application of Anaconda) is used for python. Opencv for python will work in spyder. Package versions are managed by the package management system called conda.
 
 To install Jupyter using Anaconda, just go through the following instructions:
+<b>Launch Anaconda Navigator:</b>
