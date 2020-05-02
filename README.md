@@ -189,4 +189,16 @@ Install Jupyter using the PIP package manager used to install and manage softwar
 Anaconda is an open-source software that contains Jupyter, spyder, etc that are used for large data processing, data analytics, heavy scientific computing. Anaconda works for R and python programming language. Spyder(sub-application of Anaconda) is used for python. Opencv for python will work in spyder. Package versions are managed by the package management system called conda.
 
 To install Jupyter using Anaconda, just go through the following instructions:
-<b>Launch Anaconda Navigator:</b>
+<br><b>Launch Anaconda Navigator:</b><br>
+![alt_text](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/screenshots%20-%20Day%202/ss1.PNG)
+<br><b>Click on the Install Jupyter Notebook Button:</b><br>
+![alt_text](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/screenshots%20-%20Day%202/ss2.PNG)
+<br><b>Beginning the Installation:</b><br>
+![alt_text](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/screenshots%20-%20Day%202/ss3.PNG)
+<br><b>Loading Packages:</b><br>
+![alt_text](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/screenshots%20-%20Day%202/ss4.PNG)
+<br><b>Finished Installation:</b><br>
+![alt_text](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/screenshots%20-%20Day%202/ss5.PNG)
+<br><b>Launching Jupyter:</b><br>
+![alt_text](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/screenshots%20-%20Day%202/ss6.PNG)
+![alt_text](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/screenshots%20-%20Day%202/ss7.PNG)
