@@ -175,7 +175,11 @@ Here in this course we will be using Jupyer Notebook.
 2. Jupyter has support for over 40 different programming languages and Python is one of them. Python is a requirement (Python 3.3 or greater, or Python 2.7) for installing the Jupyter Notebook itself.<br>
     
 Jupyter Notebook can be installed by using either of the two ways described below:
-<br>
-##### Using Anaconda #####
-<br>
+
+#### Using Anaconda ####
+
 Install Python and Jupyter using the Anaconda Distribution, which includes Python, the Jupyter Notebook, and other commonly used packages for scientific computing and data science. To install Anaconda, go through How to install Anaconda on windows? and follow the instructions provided. 
+
+#### Using PIP ####
+
+Install Jupyter using the PIP package manager used to install and manage software packages/libraries written in Python. To install pip, go through How to install PIP on Windows? and follow the instructions provided. 
