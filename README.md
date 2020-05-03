@@ -221,7 +221,7 @@ now, please acces these file for <b>Day 2</b>
     
 ## <Center>Day 3 - Lists, Tuples, Dictionaries, Sets</center> ##
 <br>
-![alt_text](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/DailyPy%20Day%202%20announcement%20poster.png)
+![alt_text](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/DailyPy%20Day%202%20announcement%20poster.png)<br>
 * ![Lists](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Day%203/Day%203%20-%20Lists.ipynb)<br>
 * ![Tuples - Part 1](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Day%203/Day%203%20-%20Tuples(Part%201).ipynb)<br>
 * ![Tuples - Part 2](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Day%203/Day%203%20-%20Tuples(part%20-%202).ipynb)<br>
