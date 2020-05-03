@@ -219,3 +219,11 @@ now, please acces these file for <b>Day 2</b>
 * ![Variables](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Day%202/Day%202%20-%20Variables.ipynb)<br>
 * ![standard input and Output](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Day%202/Day%202%20-%20standard%20input%20and%20output.ipynb)
     
+## <Center>Day 3 - Lists, Tuples, Dictionaries, Sets</center> ##
+<br>
+![alt_text](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/DailyPy%20Day%202%20announcement%20poster.png)
+* ![Lists](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Day%203/Day%203%20-%20Lists.ipynb)<br>
+* ![Tuples - Part 1](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Day%203/Day%203%20-%20Tuples(Part%201).ipynb)<br>
+* ![Tuples - Part 2](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Day%203/Day%203%20-%20Tuples(part%20-%202).ipynb)<br>
+* ![Sets](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Day%203/Day%203%20-%20Sets.ipynb)<br>
+* ![Dictionaries](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Day%203/Day%203%20-%20Dictionaries.ipynb)<br>
