@@ -170,8 +170,7 @@ If you want to try out the examples in this tutorial without installing Python o
 5. Python Anywhere: www.pythonanywhere.com <br>
 <br>
 These cloud-based Python interpreters may not be able to execute some of the more complex examples in this tutorial, but they will be adequate for running most of the simpler ones and may be a nice way to get you started. More information on using these sites is presented in the next section.
-<br>
-![alt_text](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Headers/Day%202%20-%20Python%20Basics.png)
+
 
 ![alt_text](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Headers/Day%202%20-%20Python%20Basics.png)
 
