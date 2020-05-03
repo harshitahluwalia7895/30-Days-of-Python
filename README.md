@@ -173,7 +173,7 @@ These cloud-based Python interpreters may not be able to execute some of the mor
 <br>
 ![alt_text](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Headers/Day%202%20-%20Python%20Basics.png)
 
-## Day 2 - Python Basics ##
+![alt_text](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Headers/Day%202%20-%20Python%20Basics.png)
 
 <b>Here in this course we will be using Jupyer Notebook.</b>
 
