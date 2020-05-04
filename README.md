@@ -231,5 +231,14 @@ now, please acces these file for <b>Day 2</b>
 * ![Sets](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Day%203/Day%203%20-%20Sets.ipynb)<br>
 * ![Dictionaries](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Day%203/Day%203%20-%20Dictionaries.ipynb)<br>
 
-### stay tuned for the Day 4 ### 
+![alt_text](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Headers/Day%204-%20Python%20Conditionals(1).png)
 
+![alt_text](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/DailyPy%20Day%204%20announcement%20poster(1).png)
+
+* ![if-else](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Day%204/if-elif-else.ipynb)<br>
+* ![While Loop](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Day%204/While-loop.ipynb)<br>
+* ![For Loops](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Day%204/for_loop.ipynb)<br>
+* ![Break and Continue](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Day%204/break_continue.ipynb)<br>
+
+
+### Stay Tuned for Day 5 ###
